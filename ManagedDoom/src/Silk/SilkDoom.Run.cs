@@ -25,7 +25,7 @@ namespace ManagedDoom.Silk
             else
             {
                 window.UpdatesPerSecond = 35;
-                window.FramesPerSecond = 35;
+                window.FramesPerSecond = 60;
             }
 
             window.Run();
